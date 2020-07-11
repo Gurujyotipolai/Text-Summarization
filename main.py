@@ -4,7 +4,7 @@ from TfIdfModule import *
 from CosineModule import CosineSimilarity
 from operator import itemgetter
 
-file = 'data\\text\\005.txt'
+file = 'C:\Users\KIIT\Desktop\3rd semester\Just testing right!.docx'
 file = open(file, 'r')
 text = file.read()
 
